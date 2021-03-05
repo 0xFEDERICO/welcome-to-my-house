@@ -1,5 +1,5 @@
 # welcome-to-my-house
-first time that I user three js
+first time that I use three js
 
 </br></br>
 ![](https://img.shields.io/github/issues/0xfederico/welcome-to-my-house)
